@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Lance Ivan Budonia! 👋
 
-<!--
-**ceilvanna04/ceilvanna04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Computer Science Undergraduate | UI/UX Enthusiast | Graphic Designer
 
-Here are some ideas to get you started:
+I am an adaptive and curious **Computer Science student** at Cavite State University with a background in administrative operations and graphic design. I bridge the gap between functional code and aesthetic design, seeking an entry-level role to apply my technical foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Technical Skills
+
+
+| Area | Technologies |
+| :--- | :--- |
+| **Programming** | Python, Java, VB.Net, MySQL |
+| **Web Development** | HTML, CSS, React.JS |
+| **Design Tools** | Photoshop, Canva, Publisher, Figma (UI/UX) |
+| **Software & Tools** | VS Code, Excel, Microsoft Office Suite |
+
+---
+
+### 💼 Experience & Education
+
+*   **UI/UX Designer Intern** @ INCUB8 Space (OJT via Cavite State University)
+*   **Administrative Staff** @ Mother Theresa Colegio de Noveleta (2022 - 2024)
+    *   Managed digital marketing, financials, and payroll records using Excel and Creative Suites.
+*   **BS in Computer Science** @ Cavite State University – Cavite City Campus (Present)
+*   **Senior High School (ICT)** @ Noah’s Academy, Inc. (2020 - 2022)
+
+---
+
+### 📊 GitHub Stats & Badges
+
+![Python](https://shields.io)
+![React](https://shields.io)
+![MySQL](https://shields.io)
+![Canva](https://shields.io)
+
+---
+
+### 📫 Get in Touch
+
+*   **Location:** Noveleta, Cavite, Philippines
+*   **Email:** [budonialanceivan@gmail.com](mailto:budonialanceivan@gmail.com)
+*   **Fun Fact:** I have experience in both technical troubleshooting and professional graphic design!
+
+---
