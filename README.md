@@ -20,10 +20,16 @@ I am an adaptive and curious **Computer Science student** at Cavite State Univer
 
 ### 💼 Experience & Education
 
+*   **Shop Operations Assistant** @ Pamana Media Publishing, Inc.
+    *   Developed a QR-accessible landing page with a streamlined 3-button interface, routing customers directly to correct print submission portals and significantly reducing manual inquiries.
+    *   Fulfilled customer print orders across a wide range of materials, including photo paper, tarpaulins, canvas, DTF apparel, and UV/vinyl stickers.
+    *   Oversaw digital marketing, financial tracking, and custom design layouts to meet specific client requirements.
 *   **UI/UX Designer Intern** @ INCUB8 Space (OJT via Cavite State University)
+    *   Designed user interfaces and user experiences for the company's website and mobile application.
 *   **Administrative Staff** @ Mother Theresa Colegio de Noveleta (2022 - 2024)
     *   Managed digital marketing, financials, and payroll records using Excel and Creative Suites.
 *   **BS in Computer Science** @ Cavite State University – Cavite City Campus (Present)
+    *  Active member of the First Aid Service Team. 
 *   **Senior High School (ICT)** @ Noah’s Academy, Inc. (2020 - 2022)
 
 ---
