@@ -30,8 +30,8 @@ I am an adaptive and curious **Computer Science student** at Cavite State Univer
 
 ### 📊 GitHub Stats & Badges
 
-![Python](https://shields.io)
-![React](https://shields.io)
+![Python]([https://shields.io](https://img.shields.io/pypi/pyversions/:packageName)
+![React]([https://shields.io](https://img.shields.io/react-native-directory/:packageName)
 ![MySQL](https://shields.io)
 ![Canva](https://shields.io)
 
