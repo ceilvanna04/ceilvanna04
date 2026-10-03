@@ -28,15 +28,6 @@ I am an adaptive and curious **Computer Science student** at Cavite State Univer
 
 ---
 
-### 📊 GitHub Stats & Badges
-
-![Python]([https://shields.io)
-![React]([https://shields.io)
-![MySQL](https://shields.io)
-![Canva](https://shields.io)
-
----
-
 ### 📫 Get in Touch
 
 *   **Location:** Noveleta, Cavite, Philippines
