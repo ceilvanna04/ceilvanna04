@@ -28,9 +28,9 @@ I am an adaptive and curious **Computer Science student** at Cavite State Univer
     *   Designed user interfaces and user experiences for the company's website and mobile application.
 *   **Administrative Staff** @ Mother Theresa Colegio de Noveleta (2022 - 2024)
     *   Managed digital marketing, financials, and payroll records using Excel and Creative Suites.
-*   **BS in Computer Science** @ Cavite State University – Cavite City Campus (Present)
+*   **Bachelor of Science in Computer Science** @ Cavite State University – Cavite City Campus (Present)
     *  Active member of the First Aid Service Team. 
-*   **Senior High School (ICT)** @ Noah’s Academy, Inc. (2020 - 2022)
+*   **Senior High School (ICT-Information & Communications Technology)** @ Noah’s Academy, Inc. (2020 - 2022)
 
 ---
 
